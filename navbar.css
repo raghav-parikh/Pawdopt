@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #d8a780;
+    font-family: "Comic Neue", cursive;
+    min-height: 100vh;
+    /* overflow-x: hidden; */
+}
+.navbar{
+    display: flex;
+    width: 100%;
+    font-size: 32px;
+    padding: 10px;
+    background-color: #6b4337;
+    color: #e8cfc1;
+}
+.left-section{
+width: 30%;
+text-align: center;
+}
+.right-section{
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.right-section a{
+    color: #e8cfc1;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
