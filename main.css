@@ -43,6 +43,7 @@
 
 .span2 {
     color: #5d2312;
+    margin-left: 20px;
 }
 
 .left-section-second-image {
@@ -91,31 +92,5 @@
 .last-page h1{
     color: #5d2412;
     font-size: 50px;
-    font-weight: bold;
-}
-.last-email{
-    position: absolute;
-    bottom: 500px;
-    top: 3250px;
-    left: 610px;
-    color: bisque;
-}
-.last-phone-number{
-    position: absolute;
-    bottom: 500px;
-    top: 3450px;
-    left: 632px;
-    color: bisque;
-}
-.lpn{
-    font-size: 50px;
-    font-weight: bold;
-}
-.last-email1{
-    font-size: 30px;
-    font-weight: bold;
-}
-.last-email2{
-    font-size: 30px;
     font-weight: bold;
 }
